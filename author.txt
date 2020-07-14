@@ -1,0 +1,13 @@
+my name is marco and i like to write scripts.....
+i am fluent in c not linux-c yet...
+i am learning python when i have time.
+compiled the new kernel of linus......cewl made a debian pakacge...
+i am study init.d scripts want to add some custom.sh scripts at boot.
+maybe my next posting will add some of that cool stuff with explaining document.
+
+
+
+dragonchamp01@gmail.com
+
+have fun hacking.
+
